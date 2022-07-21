@@ -1,0 +1,54 @@
+'''
+Import statement
+Global declaration
+    variables
+    functions
+    classes
+Statements
+'''
+
+#variables: a location used to store data in the memory
+#Syntax: Variable_name = data
+
+a = 10
+B = 'Python'
+print("a =", a)
+print("B = "+ B)
+
+#data_types: family of a variable
+
+# Text Type:        String
+# Numbers:          Integer , Float, complex
+# Sequence Types:   List, Tuple ,Sets
+# Mapping Type:     Dictionary
+# Boolean Type:     Bool
+# Binary Types:     Bytes, Bytearray
+
+'''
+Identifiers
+- name given to a variable, function, class, modules or other object.
+
+Rules:
+- must start with a letter or the underscore
+- next can be alphabet, digits or underscore
+- variable names are case-sensitive
+- no max limit
+'''
+
+P = 10
+p = 9
+print(P,p)
+
+
+'''
+Keywords: the words that are reserved
+35 keywords as of now
+
+False	await	    else	    import	    pass
+None	break	    except	    in	        raise
+True	class	    finally	    is	        return
+and 	continue	for	        lambda	    try
+as  	def	        from	    nonlocal	while
+assert	del	        global	    not     	with
+async	elif	    if	        or	        yield
+'''
