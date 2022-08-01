@@ -1,0 +1,60 @@
+1. Multiple statements
+    For Example:
+    a = 1; b = 2; c = 3
+    
+2. Multi-Line Statements
+    - line continuation character (\)
+    For Example:
+    S=1+2+3+\
+     4+5+6+\
+     7+8+9
+    - line continuation is implied inside parentheses ( ), brackets [ ] and braces { }
+    For Example:
+    a = (1 + 2 + 3 +
+     4 + 5 + 6 +
+     7 + 8 + 9)
+    colors = ['red',
+     'blue',
+     'green']
+     
+3. Multiple Assignments
+    Python allows us to assign values to multiple variables in a single statement.
+    Syntax:
+    var1, var2, var3.. = value1, value2, value3..
+    For Example:
+    a, b ,c = 4 ,3 ,2
+    
+4. Comments
+    Single line comments 
+    Python single line comment starts with hashtag symbol with no white spaces (#) and lasts till the end 
+    of the line.
+    For Example:
+    # This is a comment 
+    # Print “Welcome !” to console
+    Multi-line comments 
+    Python multi-line comment is a piece of text enclosed in a delimiter (""") on each end of the comment. 
+    Quotes can be single or double 
+    For Example:
+    This is a 
+    multi-line comment.
+    We are printing welcome
+    
+5. Type Casting
+    Functions
+    bin()
+        Converts an integer to a binary string
+    bool()
+        Converts an argument to a Boolean value complex()
+        Returns a complex number constructed from arguments
+    float()
+        Returns a floating-point object constructed from a number or string
+    hex()
+        Converts an integer to a hexadecimal string
+    int()
+        Returns an integer object constructed from a number or string
+    oct()
+        Converts an integer to an octal string
+    ord()
+        Returns integer representation of a character
+    str()
+        Returns a string version of an object
