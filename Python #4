@@ -1,1 +1,64 @@
-#code will be uploaded once the video is uploaded
+#Full code will be available once the video is uploaded
+
+
+'''
+Input Function: which lets you ask a user for some text input.
+    Syntax: Variable_Name = Input(‘Message’) ;
+    
+    For Example:
+        To Read User Name as string
+            
+        To Read a integer Value
+            
+        To Read three Value
+            
+        To Read three Value
+            
+        To Read three integer Value
+            
+        To Read three integer Value
+            
+        To Read Multiple Value as integer in list
+            
+        To Read Multiple Value as integer in list
+
+'''
+
+
+'''
+Condition and looping structure
+    Conditional:
+        1. if....else Statements
+        
+        2. if....elif....else statements
+        
+        3. Ternary Operator: it can evaluate a statement with a condition being true or falseIf used properly, ternary operator can reduce code size and increase readability of the code
+            Syntax:
+                Variable-name=statement1 if condition else statement2
+    Looping:
+        1. while.... loop
+        
+        2. while....else loop
+        
+        3. for loop
+    
+'''
+
+'''
+Functions: A Function is a block of code designed to perform some specific task.
+Syntax:
+    def <function-name>():
+    Statement
+    ----------
+    
+To call a function we simply type the function name with appropriate parameters.
+Syntax:
+    <function-name>(argument,argument...)
+    
+Program to print the following output
+        CCIT
+        ********************
+        Amravati
+        ********************
+
+'''
